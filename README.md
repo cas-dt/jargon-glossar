@@ -75,6 +75,7 @@
 - Agile
     - Scrum
         - Scrum Master
+        - Sprint
     - Kanban
     - …
 - Waterfall
