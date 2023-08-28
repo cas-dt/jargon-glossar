@@ -1,14 +1,16 @@
 # Glossar
 
-### Frontend
+### Frontend Entwicklung
+
 - Frameworks
-    - vue.js
-    - react.js
-    - …
+  - vue.js
+  - react.js
+  - …
 - HTML/CSS
 - JavaScript
 
-### Backend
+### Backend Entwicklung
+
 - Server
 - CMS
   - Wordpress
@@ -28,46 +30,50 @@
   - XML
 
 ### Other Dev Stuff
+
 - Deployment
 - Hosting
 - Native
-- Testing 
-    - Integrationstests
-    - Funktionstests 
-    - Unit Tests
-    - Smoke Tests
-    - ...
+- Testing
+  - Integrationstests
+  - Funktionstests
+  - Unit Tests
+  - Smoke Tests
+  - ...
 - Fullstack
-    - Back-und Frontend
+  - Back-und Frontend
 
 ### Design
+
 - UI
-    - Tools
-        - Figma
-            - Sketch
-            - …
-    - Konzepte
-        - MobileFirst
-        - Responsiveness
-- UX
-    - User Needs
-    - Personas
-    - Benutzerfreundlichkeit
-    - Informationsarchitektur
-    - Barrierefreiheit
-    - User Research Methods
-    - Customer Journey/Pain Points
-    - Prototyping
-    - Testing
+  - Tools
+    - Figma
+    - Sketch
     - …
+  - Konzepte
+    - MobileFirst
+    - Responsiveness
+- UX
+  - User Needs
+  - Personas
+  - Benutzerfreundlichkeit
+  - Informationsarchitektur
+  - Barrierefreiheit
+  - User Research Methods
+  - Customer Journey/Pain Points
+  - Prototyping
+  - Testing
+  - …
 
 ### Analytics
+
 - SEO
 
 ### Projektmanagement
+
 - Agile
-    - Scrum
-      - Scrum Master
-    - Kanban
-    - …
+  - Scrum
+    - Scrum Master
+  - Kanban
+  - …
 - Waterfall
