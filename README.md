@@ -55,6 +55,7 @@
 ### Projektmanagement
 - Agile
     - Scrum
+      - Scrum Master
     - Kanban
     - …
 - Waterfall
