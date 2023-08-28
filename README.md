@@ -10,16 +10,27 @@
 
 ### Backend
 - Server
+- CMS
+  - Wordpress
+  - Craft
+  - Drupal
+  - etc.
 - Datenbank
+  - MySQL
+  - MongoDB
 - APIs
-- Java, Python, etc.
-- JSON, XML
+- Programmiersprachen
+  - Java
+  - Python
+  - Node.js
+- Datenaustausch
+  - JSON
+  - XML
 
 ### Other Dev Stuff
 - Deployment
 - Hosting
 - Native
-- CMS
 - Testing 
     - Integrationstests
     - Funktionstests 
