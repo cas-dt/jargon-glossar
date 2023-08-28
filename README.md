@@ -12,7 +12,8 @@
 - Server
 - Datenbank
 - APIs
-- Java,Python,etc.
+- Java, Python, etc.
+- JSON, XML
 
 ### Other Dev Stuff
 - Deployment
