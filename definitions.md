@@ -50,7 +50,7 @@ Die Antworten wurden durch Josef Renner geprüft und wo nötig umformuliert, erg
 
 **Fullstack**: Fullstack-Entwickler sind in der Lage, sowohl im Frontend als auch im Backend einer Anwendung zu arbeiten.
 
-**UI**: UI (User Interface) bezieht sich auf die Benutzeroberfläche einer Anwendung, die Benutzer sehen und mit der sie interagieren.
+**UI (User Interface)**: Die Benutzeroberfläche einer Anwendung, die Benutzer sehen und mit der sie interagieren.
 
 **MobileFirst**: MobileFirst ist ein Ansatz in der Entwicklung, bei dem die mobile Benutzererfahrung im Mittelpunkt steht.
 
