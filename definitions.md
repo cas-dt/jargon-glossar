@@ -95,3 +95,7 @@ Die Antworten wurden durch Josef Renner geprüft und wo nötig umformuliert, erg
 **Waterfall**: Ein traditionelles Projektmanagementmodell, bei dem Aufgaben sequenziell abgearbeitet werden, wobei jede Phase erst nach Abschluss der vorherigen Phase beginnt.
 
 **Minimum Viable Product**: Die Entwicklung eines Produkts mit minimalen Funktionen, um es frühzeitig auf den Markt zu bringen und Benutzerfeedback zu sammeln.
+
+**SaaS** (Software as a Service):  Software, die über das Internet bereitgestellt wird und von Nutzern als Abonnement genutzt wird, anstatt sie auf ihren eigenen Computern zu installieren.
+
+*PDF exportiert aus iA-Writer*
