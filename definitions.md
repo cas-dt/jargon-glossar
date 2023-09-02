@@ -1,54 +1,7 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Glossar, Definitionen
+Die folgenden Antworten wurden durch ChatGPT auf die Frage «Bitte schreibe zu jedem der folgenden Stichworte eine kurze, einfach verständliche Definition in einem Satz.» Gefolgt von einer Liste von Begriffen.
+Die Antworten wurden durch Josef Renner geprüft und wo sinnvoll umformuliert, ergänzt oder gekürzt.
+
 **APIs (Application Programming Interfaces)**: Schnittstellen, die es verschiedenen Softwarekomponenten ermöglichen, miteinander zu kommunizieren und Daten auszutauschen.
 **Agile**: Eine flexible Methode des Projektmanagements, die darauf abzielt, Teams zu befähigen, schnell auf Veränderungen zu reagieren und kontinuierlich qualitativ hochwertige Ergebnisse zu liefern.
 **Analytics**: Die Sammlung und Auswertung von Daten, um Einblicke in die Nutzung und Leistung einer Anwendung zu gewinnen.
@@ -97,7 +50,5 @@
 **Wordpress, Craft, Drupal**: Dies sind Beispiele für Content Management Systeme (CMS) die zur Erstellung von Webseiten und Blogs verwendet werden können.
 **react.js**: Ein JavaScript-Framework zur Erstellung von Benutzeroberflächen, die von Facebook entwickelt wurde und für ihre schnelle Aktualisierung von UI-Komponenten bekannt ist.
 **vue.js**: Ein JavaScript-Framework zur Erstellung von Benutzeroberflächen, das besonders für seine Einfachheit und Flexibilität bekannt ist.
-Die Antworten wurden durch Josef Renner geprüft und wo nötig umformuliert, ergänzt oder gekürzt.
-Die folgenden Antworten wurden durch ChatGPT auf die Frage «Bitte schreibe zu jedem der folgenden Stichworte eine kurze, einfach verständliche Definition in einem Satz.»
 
 *PDF exportiert aus iA-Writer*
